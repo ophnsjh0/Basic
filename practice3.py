@@ -156,8 +156,7 @@
 # print(profile)
 # profile_file.close()
 
-# 9.  with
-# import pickle
+# 9. with
 
 # with open("profile.pickle", "rb") as profile_file:
 #     print(pickle.load(profile_file))
